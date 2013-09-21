@@ -2,9 +2,10 @@
 
 Responsive web typography at its finest: font-size and line-height based on element width.
 
-Demo @ [jsFiddle](http://jsfiddle.net/Fire2Burn/Q6muc/)
+Demo @ [jsFiddle](http://jsfiddle.net/Fire2Burn/Q6muc/1)
 
-Check out [original creator site](http://simplefocus.com/flowtype).
+Check out [original creator site](http://simplefocus.com/flowtype)
+
 Documentation at [original github](https://github.com/simplefocus/FlowType.JS)
 
 ## Setup ##
