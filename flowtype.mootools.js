@@ -1,5 +1,7 @@
 var FlowType = new Class({
+	
     Implements: [Options],
+		
     options: {
         maximum: 9999,
         minimum: 1,
@@ -8,6 +10,7 @@ var FlowType = new Class({
         fontRatio: 35,
         lineRatio: 1.45
     },
+	
     initialize: function(elements, options) {
         this.setOptions(options);
         var self = this;
@@ -18,6 +21,7 @@ var FlowType = new Class({
             });
         });
     },
+		
     changes: function(element) {
         var settings = this.options,
             elw = element.getSize().x,
