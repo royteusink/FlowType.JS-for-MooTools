@@ -5,7 +5,7 @@ Responsive web typography at its finest: font-size and line-height based on elem
 Demo @ [jsFiddle](http://jsfiddle.net/Fire2Burn/Q6muc/)
 
 Check out [original creator site](http://simplefocus.com/flowtype).
-Documentation at [original github]{https://github.com/simplefocus/FlowType.JS}
+Documentation at [original github](https://github.com/simplefocus/FlowType.JS)
 
 ## Setup ##
 
